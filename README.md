@@ -6,7 +6,8 @@ The frontpage consist of a random quote and posts sorted by either popularity or
 Every post has a vote count plugin, everyone can give thumbs-up to posts and push them to the top of the page.
 
 <h4>Wireframe:</h4>
-(image)
+<img src="https://cloud.githubusercontent.com/assets/13576777/10688133/da735af8-7926-11e5-964f-4f4e2d1a1f52.jpg">
+<img src="https://cloud.githubusercontent.com/assets/13576777/10688131/d7474d4e-7926-11e5-9247-1a23e756901c.jpg">
 
 <h4>Possible API sources:</h4>
 <ul>
