@@ -24,8 +24,8 @@ reference: http://stackoverflow.com/questions/6989487/what-apis-are-there-availa
 </li></ul>
 
 <h4>ERD:</h4>
-(image)
-embedded/ referenced
+<img src="https://cloud.githubusercontent.com/assets/13576777/10687798/b990266a-7924-11e5-9abe-f3ca524ca4e6.png">
+<br>Prefer referenced to embedded data.
 
 <h4>Schemas:</h4>
 User login: username and password
