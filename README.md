@@ -28,8 +28,9 @@ reference: http://stackoverflow.com/questions/6989487/what-apis-are-there-availa
 <br>Prefer referenced to embedded data.
 
 <h4>Schemas:</h4>
-User login: username and password
-Posts: quote, author, vote-count, tags/categories
+<ul>
+<li>User login: username and password</li><li>
+Posts: quote, author, vote-count, tags/categories</li></ul>
 
 <h4>Cookie:</h4>
 Username and password will be stored with cookie.
